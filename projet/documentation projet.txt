@@ -1,0 +1,28 @@
+-poser des formes : 
+
+clic gauche sur la forme que l'on souhaite poser et clic gauche sur la zone où l'on veut le faire apparaitre.
+
+
+-modifier la taille / l'orientation :
+
+il faut mettre la forme en mode sélection en faisant clique gauche sur le logo en forme de mains puis clique gauche sur la forme. 
+Le point bleu sert à redimensionner et le vert à réorienter.
+
+
+-pour déplacer la forme :
+
+il faut le mettre en mode sélection et rester appuyer clic gauche sur la forme et la déplacer, double click sur la forme pour retirer le mode sélection.
+
+
+-pour changer sa couleur : 
+
+On utilise la palette de couleur pour avoir accès à plusieurs couleurs, on doit choisir si l'on veut colorier l'intérieur ou la bordure à l'aide d'un menu déroulant.
+Une fois que l'on a choisit on fait clique gauche sur la couleur et ensuite clique gauche sur la forme.
+
+
+-pour effacer un item :
+
+ clique gauche sur la corbeille puis ensuite sur l'item en question.
+
+
+-pour le texte : mode sélection et sélecteur rouge pour le déplacer, on sélectionne une taille et un style de police et clique gauche sur le texte pour le mettre à jour.

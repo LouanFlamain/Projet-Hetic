@@ -1,0 +1,71 @@
+/* Mon CSS à moi */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.test{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.loader{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.is-active{
+  display: flex;
+}
+.is-hidden{
+  display: none;
+}
+.scroll_page{
+  overflow-y: scroll;
+  height: 300px;
+}
+
+/*.message-error {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 9001;
+    top: 20px;
+    left: 50%;
+    width: 400px;
+    padding: 12px;
+    color: white;
+    background-color: brown;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    transform: translateX(-50%) scale(0);
+    transition: transform 0.2s;
+  }
+
+  .message-error-close {
+    padding: 4px;
+    font-size: 10px;
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .message-error.is-active {
+    transform: translateX(-50%) scale(1);
+  }*/
+
+
+
